@@ -41,12 +41,12 @@ Soy un estudiante apasionado de Ingeniería de Software con enfoque en el desarr
 
 ### **Frontend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,sass" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" height="50"/>
 </p>
 
 ### **Backend Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,fastapi" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,spring" height="50"/>
 </p>
 
 ### **Bases de Datos**
@@ -56,7 +56,7 @@ Soy un estudiante apasionado de Ingeniería de Software con enfoque en el desarr
 
 ### **DevOps & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,git,github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github" height="50"/>
 </p>
 
 ### **Herramientas & IDEs**
